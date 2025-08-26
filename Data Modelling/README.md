@@ -49,4 +49,4 @@ Once the tables were created, I proceeded to load the data into the database.
 
 The following Entity-Relationship Diagram (ERD) visually represents the star schema structure, providing a clear overview of the database architecture and the relationships between entities.
 
-![db_crm_sales_diagram]
+![db_diagram](https://github.com/vivekpatil75/Sales_Team_Analysis_SQL/blob/ec63930dee4617ae86b6b9d3f86e5945efb3b3ba/Data%20Modelling/db_diagram.png)
